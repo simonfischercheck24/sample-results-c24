@@ -1,0 +1,491 @@
+{
+    "result": [
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_nuernberger.png",
+          "name": "Nürnberger",
+          "tariff": "Basis"
+        },
+        "tariffGrade": 1.4,
+        "features": [
+          {
+            "icon": "icon-attention--red",
+            "label": "Annahmequote: niedrig"
+          },
+          {
+            "icon": "icon-checkmark--yellow",
+            "label": "Bearbeitungszeit: durchschnittlich"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: ja"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Versicherungssumme: mit Erhöhungsoption"
+          }
+        ],
+        "price": 12.62
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_dela.png",
+          "name": "DELA",
+          "tariff": "aktiv Leben"
+        },
+        "tariffGrade": 2.5,
+        "features": [
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Annahmequote: hoch"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Bearbeitungszeit: schnell"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: nein"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Versicherungssumme: ohne Erhöhungsoption"
+          }
+        ],
+        "price": 13.12
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_cosmosDirekt.png",
+          "name": "CosmosDirekt",
+          "tariff": "Comfort"
+        },
+        "tariffGrade": 1.5,
+        "features": [
+          {
+            "icon": "icon-checkmark--yellow",
+            "label": "Annahmequote: durchschnittlich"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Bearbeitungszeit: schnell"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: nein"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Versicherungssumme: mit Erhöhungsoption"
+          }
+        ],
+        "price": 12.05
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_nuernberger.png",
+          "name": "Nürnberger",
+          "tariff": "Premium"
+        },
+        "tariffGrade": 2.8,
+        "features": [
+          {
+            "icon": "icon-attention--red",
+            "label": "Annahmequote: niedrig"
+          },
+          {
+            "icon": "icon-checkmark--yellow",
+            "label": "Bearbeitungszeit: durchschnittlich"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: ja"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Versicherungssumme: mit Erhöhungsoption"
+          }
+        ],
+        "price": 14.5
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_dela.png",
+          "name": "DELA",
+          "tariff": "Plus"
+        },
+        "tariffGrade": 3.1,
+        "features": [
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Annahmequote: hoch"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Bearbeitungszeit: schnell"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: nein"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Versicherungssumme: ohne Erhöhungsoption"
+          }
+        ],
+        "price": 15.3
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_cosmosDirekt.png",
+          "name": "CosmosDirekt",
+          "tariff": "Basic"
+        },
+        "tariffGrade": 1.9,
+        "features": [
+          {
+            "icon": "icon-checkmark--yellow",
+            "label": "Annahmequote: durchschnittlich"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Bearbeitungszeit: schnell"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: nein"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Versicherungssumme: mit Erhöhungsoption"
+          }
+        ],
+        "price": 11.75
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_nuernberger.png",
+          "name": "Nürnberger",
+          "tariff": "Standard"
+        },
+        "tariffGrade": 1.6,
+        "features": [
+          {
+            "icon": "icon-attention--red",
+            "label": "Annahmequote: niedrig"
+          },
+          {
+            "icon": "icon-checkmark--yellow",
+            "label": "Bearbeitungszeit: durchschnittlich"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: ja"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Versicherungssumme: mit Erhöhungsoption"
+          }
+        ],
+        "price": 13.2
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_dela.png",
+          "name": "DELA",
+          "tariff": "Secure"
+        },
+        "tariffGrade": 2.3,
+        "features": [
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Annahmequote: hoch"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Bearbeitungszeit: schnell"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: nein"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Versicherungssumme: ohne Erhöhungsoption"
+          }
+        ],
+        "price": 14.0
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_cosmosDirekt.png",
+          "name": "CosmosDirekt",
+          "tariff": "Advanced"
+        },
+        "tariffGrade": 1.7,
+        "features": [
+          {
+            "icon": "icon-checkmark--yellow",
+            "label": "Annahmequote: durchschnittlich"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Bearbeitungszeit: schnell"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: nein"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Versicherungssumme: mit Erhöhungsoption"
+          }
+        ],
+        "price": 12.9
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_nuernberger.png",
+          "name": "Nürnberger",
+          "tariff": "Exclusive"
+        },
+        "tariffGrade": 1.3,
+        "features": [
+          {
+            "icon": "icon-attention--red",
+            "label": "Annahmequote: niedrig"
+          },
+          {
+            "icon": "icon-checkmark--yellow",
+            "label": "Bearbeitungszeit: durchschnittlich"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: ja"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Versicherungssumme: mit Erhöhungsoption"
+          }
+        ],
+        "price": 15.0
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_dela.png",
+          "name": "DELA",
+          "tariff": "Essential"
+        },
+        "tariffGrade": 2.0,
+        "features": [
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Annahmequote: hoch"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Bearbeitungszeit: schnell"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: nein"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Versicherungssumme: ohne Erhöhungsoption"
+          }
+        ],
+        "price": 13.5
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_cosmosDirekt.png",
+          "name": "CosmosDirekt",
+          "tariff": "Prime"
+        },
+        "tariffGrade": 1.6,
+        "features": [
+          {
+            "icon": "icon-checkmark--yellow",
+            "label": "Annahmequote: durchschnittlich"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Bearbeitungszeit: schnell"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: nein"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Versicherungssumme: mit Erhöhungsoption"
+          }
+        ],
+        "price": 12.3
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_nuernberger.png",
+          "name": "Nürnberger",
+          "tariff": "Optimum"
+        },
+        "tariffGrade": 1.5,
+        "features": [
+          {
+            "icon": "icon-attention--red",
+            "label": "Annahmequote: niedrig"
+          },
+          {
+            "icon": "icon-checkmark--yellow",
+            "label": "Bearbeitungszeit: durchschnittlich"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: ja"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Versicherungssumme: mit Erhöhungsoption"
+          }
+        ],
+        "price": 14.8
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_dela.png",
+          "name": "DELA",
+          "tariff": "Ultimate"
+        },
+        "tariffGrade": 2.4,
+        "features": [
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Annahmequote: hoch"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Bearbeitungszeit: schnell"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: nein"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Versicherungssumme: ohne Erhöhungsoption"
+          }
+        ],
+        "price": 15.1
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_cosmosDirekt.png",
+          "name": "CosmosDirekt",
+          "tariff": "Elite"
+        },
+        "tariffGrade": 1.4,
+        "features": [
+          {
+            "icon": "icon-checkmark--yellow",
+            "label": "Annahmequote: durchschnittlich"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Bearbeitungszeit: schnell"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: nein"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Versicherungssumme: mit Erhöhungsoption"
+          }
+        ],
+        "price": 13.4
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_nuernberger.png",
+          "name": "Nürnberger",
+          "tariff": "Supreme"
+        },
+        "tariffGrade": 1.2,
+        "features": [
+          {
+            "icon": "icon-attention--red",
+            "label": "Annahmequote: niedrig"
+          },
+          {
+            "icon": "icon-checkmark--yellow",
+            "label": "Bearbeitungszeit: durchschnittlich"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: ja"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Versicherungssumme: mit Erhöhungsoption"
+          }
+        ],
+        "price": 15.6
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_dela.png",
+          "name": "DELA",
+          "tariff": "Optimum Plus"
+        },
+        "tariffGrade": 2.2,
+        "features": [
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Annahmequote: hoch"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Bearbeitungszeit: schnell"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: nein"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Versicherungssumme: ohne Erhöhungsoption"
+          }
+        ],
+        "price": 14.2
+      },
+      {
+        "provider": {
+          "logo": "images/provider-logos/logo_w150_cosmosDirekt.png",
+          "name": "CosmosDirekt",
+          "tariff": "Supreme Plus"
+        },
+        "tariffGrade": 1.3,
+        "features": [
+          {
+            "icon": "icon-checkmark--yellow",
+            "label": "Annahmequote: durchschnittlich"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Bearbeitungszeit: schnell"
+          },
+          {
+            "icon": "icon-attention--red",
+            "label": "Vorabauszahlung bei tödlicher Krankheit: nein"
+          },
+          {
+            "icon": "icon-checkmark--green",
+            "label": "Versicherungssumme: mit Erhöhungsoption"
+          }
+        ],
+        "price": 12.7
+      }
+    ]
+  }
+  
